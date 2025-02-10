@@ -58,6 +58,6 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 4. Commit and push your changes.
 5. Create a pull request.
 
-Image = ![Uploading weather.png…]()
+
 
 
